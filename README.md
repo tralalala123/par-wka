@@ -1,2 +1,2 @@
-# par-wka
+# paruwka
 parówka
